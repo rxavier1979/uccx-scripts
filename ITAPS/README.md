@@ -11,24 +11,14 @@
 
 **Prompts:**
 
-pr_Welcome: Welcome to the Telephony Auto Provision System.
-
-pr_EnterPIN: Please enter your PIN followed by the pound or hash key. 
-
-pr_EnterDN: Please enter the directory number that should be assigned to this phone followed by the pound or hash key. 
-
-pr_EnterDNagain: Please enter the directory number again followed by the pound or hash key.
-
-pr_EntryDoesNotMatch: Those entries do not match. Please try again.  
-
-pr_ErrorDuplicate: The directory number entered is on a shared line. To identify the device, enter the phone number mask followed by the pound or hash key.
-
-pr_ErrorWithCode: The error code reported was...
-
-pr_Success: Operation successful. The phone will reboot now. 
-
-pr_Invalid_Entry: Invalid entry or time out. Please try again.
-
-pr_Error: There was an error performing this operation. 
-
-pr_Goodbye: Goodbye
+* pr_Welcome: Welcome to the Telephony Auto Provision System.
+* pr_EnterPIN: Please enter your PIN followed by the pound or hash key. 
+* pr_EnterDN: Please enter the directory number that should be assigned to this phone followed by the pound or hash key. 
+* pr_EnterDNagain: Please enter the directory number again followed by the pound or hash key.
+* pr_EntryDoesNotMatch: Those entries do not match. Please try again.  
+* pr_ErrorDuplicate: The directory number entered is on a shared line. To identify the device, enter the phone number mask followed by the pound or hash key.
+* pr_ErrorWithCode: The error code reported was...
+* pr_Success: Operation successful. The phone will reboot now. 
+* pr_Invalid_Entry: Invalid entry or time out. Please try again.
+* pr_Error: There was an error performing this operation. 
+* pr_Goodbye: Goodbye
