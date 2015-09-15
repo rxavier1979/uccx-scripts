@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- NO LEADING ZEROES IN DATE NUMBERS !!!! -->
+<Holidays>
+       <Holiday1>5/26/2015</Holiday1>
+       <Holiday2>5/27/2015</Holiday2>
+       <Holiday3>5/28/2015</Holiday3>
+       <Holiday4>5/29/2015</Holiday4>
+       <Holiday5></Holiday5>
+       <Holiday6></Holiday6>
+       <Holiday7></Holiday7>
+       <Holiday8></Holiday8>
+       <Holiday9></Holiday9>
+       <Holiday10></Holiday10>
+</Holidays>
